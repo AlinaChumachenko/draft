@@ -137,8 +137,6 @@ address {
 }
 
 .advantages {
-  padding-top: 40px;
-  padding-bottom: 60px;
   background-color: #FFF5F6;
 }
 @media screen and (min-width: 768px) {
@@ -223,7 +221,7 @@ address {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: #D41443;
-  margin-bottom: 24px;
+  margin-bottom: 19px;
 }
 @media screen and (min-width: 768px) {
   .advantages__size {
